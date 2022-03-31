@@ -17,9 +17,11 @@
 * #### Os: Arch Linux
 
 ---
-#### (💻) Watch me at [TryHackMe](https://tryhackme.com/p/62104e53b9fc85ef)
+#### (💻) My Portfolio(https://tryhackme.com/p/62104e53b9fc85ef)
 
 [![Tryhackme](https://media.discordapp.net/attachments/842488667653275648/937791651496230932/unknown.png)]()
+
+[![Tryhackme](https://www.codewars.com/users/cyberwvrld/badges/large)]()
 
 #### (📫) You can email me at :
 * `$(base64 -d <<<eHd2cmxkQHByb3Rvbm1haWwuY29t)`
