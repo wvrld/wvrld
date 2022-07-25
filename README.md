@@ -13,7 +13,7 @@
 ---
 ####
 
-* #### Languages: Python, Javascript, Solidity, Rust, GO
+* #### Languages: Python, Javascript, Solidity, Rust, GO, Swift
 * #### Os: Arch Linux
 
 ---
