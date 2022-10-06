@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-:)
+Software was meant to be light and feel effortless to use.
 </p>
 
 ---
