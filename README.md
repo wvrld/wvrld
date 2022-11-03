@@ -13,8 +13,8 @@ Software was meant to be light and feel effortless to use.
 ---
 ####
 
-* #### Languages: Python, Javascript, Solidity, Rust, GO, Swift
-* #### Os: Arch Linux
+* #### Languages: Python, Javascript, Typescript, Solidity, GO, Swift
+* #### Os: Zorin OS / BlackArch
 
 ---
 #### (💻) My Portfolio(https://tryhackme.com/p/62104e53b9fc85ef)
