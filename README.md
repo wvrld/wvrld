@@ -17,9 +17,9 @@ Software was meant to be light and feel effortless to use.
 * #### Os: Zorin OS / BlackArch
 
 ---
-#### (💻) My Portfolio(https://tryhackme.com/p/62104e53b9fc85ef)
+#### (💻) My Portfolio(https://tryhackme.com/p/xwvrld)
 
-[![Tryhackme](https://media.discordapp.net/attachments/842488667653275648/937791651496230932/unknown.png)]()
+<script src="https://tryhackme.com/badge/1266641"></script>
 
 
 #### (📫) You can email me at :
