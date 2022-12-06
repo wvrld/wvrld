@@ -19,7 +19,7 @@ Software was meant to be light and feel effortless to use.
 ---
 #### (💻) My Portfolio(https://tryhackme.com/p/xwvrld)
 
-<script src="https://tryhackme.com/badge/1266641"></script>
+https://tryhackme.com/badge/1266641
 
 
 #### (📫) You can email me at :
