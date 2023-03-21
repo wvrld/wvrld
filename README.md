@@ -18,7 +18,7 @@ Software was meant to be light and feel effortless to use.
 
 ---
 #### (💻) My Portfolio(https://tryhackme.com/p/xwvrld)
-<img src="https://media.discordapp.net/attachments/842488667653275648/1049988387077115924/xwvrld.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/1266641"></script>
 
 
 #### (📫) You can email me at :
