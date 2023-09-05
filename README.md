@@ -14,7 +14,7 @@ Software was meant to be light and feel effortless to use.
 ####
 
 * #### Languages: Python, Javascript, Typescript, Solidity, GO
-* #### Os: MacOS Ventura, ZorinOS, Kali Linux
+* #### Os: MacOS Sonoma, ZorinOS, Kali Linux
 
 ---
 #### (💻) My Portfolio(https://tryhackme.com/p/xwvrld)
