@@ -34,7 +34,7 @@ type TechStack = {
 const stack: TechStack = {
     languages:  ["Python", "JavaScript", "TypeScript", "Solidity", "Go"],
     os:         ["macOS Tahoe", "TailsOS", "ParrotOS"],
-    interests:  ["Offensive Security", "Privacy Engineering", "Web3", "OSINT", "Reverse Engineering"],
+    interests:  ["Offensive Security", "Privacy Engineering", "Web3", "OSINT", "GEOINT", "IMINT", "SOCMINT", "TECHINT", "Reverse Engineering"],
 };
 ```
 
